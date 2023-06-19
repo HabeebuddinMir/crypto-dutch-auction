@@ -1,5 +1,5 @@
 TN:
-SF:S:\INFO-7500\info7500\v4.0\contracts\NFTDutchAuctionERC20Bids_v2.sol
+SF:/Users/habeebuddinmir/Desktop/crypto-dutch-auction/v4.0/contracts/NFTDutchAuctionERC20Bids_v2.sol
 FN:35,initialize
 FN:61,getCurrentPrice
 FN:70,getVersion
@@ -61,7 +61,7 @@ BRF:16
 BRH:12
 end_of_record
 TN:
-SF:S:\INFO-7500\info7500\v4.0\contracts\NFTDutchAuctionERC20Bids.sol
+SF:/Users/habeebuddinmir/Desktop/crypto-dutch-auction/v4.0/contracts/NFTDutchAuctionERC20Bids.sol
 FN:35,initialize
 FN:61,getCurrentPrice
 FN:72,_authorizeUpgrade
@@ -120,7 +120,7 @@ BRF:16
 BRH:15
 end_of_record
 TN:
-SF:S:\INFO-7500\info7500\v4.0\contracts\RandomMusicNFT.sol
+SF:/Users/habeebuddinmir/Desktop/crypto-dutch-auction/v4.0/contracts/RandomMusicNFT.sol
 FN:12,constructor
 FN:17,mintNFT
 FNF:2
@@ -140,7 +140,7 @@ BRF:2
 BRH:2
 end_of_record
 TN:
-SF:S:\INFO-7500\info7500\v4.0\contracts\TempoToken.sol
+SF:/Users/habeebuddinmir/Desktop/crypto-dutch-auction/v4.0/contracts/TempoToken.sol
 FN:8,constructor
 FN:12,mint
 FNF:2

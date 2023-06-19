@@ -1,5 +1,5 @@
 TN:
-SF:/Users/habeebuddinmir/Desktop/crypto-dutch-auction/v2.0/contracts/NFTDutchAuction.sol
+SF:/Users/habeebuddinmir/Desktop/crypto-dutch-auction/v4/contracts/NFTDutchAuction.sol
 FN:20,constructor
 FN:49,getCurrentPrice
 FN:58,bid
@@ -46,7 +46,7 @@ BRF:10
 BRH:10
 end_of_record
 TN:
-SF:/Users/habeebuddinmir/Desktop/crypto-dutch-auction/v2.0/contracts/RandomMusicNFT.sol
+SF:/Users/habeebuddinmir/Desktop/crypto-dutch-auction/v4/contracts/RandomMusicNFT.sol
 FN:12,constructor
 FN:17,mintNFT
 FNF:2
